@@ -1,5 +1,7 @@
+git push git-demo master
 hello git!
 hello git!
 hello git!
 hello git!
 hello git!
+git pull git-demo master
